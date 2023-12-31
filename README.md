@@ -9,7 +9,9 @@ This repository contains resources and reference for awesome stuff related to Co
 3. [Mathematics](#mathematics)
 4. [AI](#ai)
 5. [Machine Learning](#machine-learning)
-5. [e-books](#e-books)
+6. [e-books](#e-books)
+7. [Engineering Leardership](#engineering-leadership)
+
 
 
 ## Computer Science
@@ -25,7 +27,13 @@ This repository contains resources and reference for awesome stuff related to Co
 ## e-books
 
 ## Databases
-    1.[Nile](https://www.thenile.dev/) Serverless postgres for SaaS. Built in tenant virtulization. handles Multi tenant usecase.
+    1.[Nile](https://www.thenile.dev/)
+    Serverless postgres for SaaS. Built in tenant virtulization. handles Multi tenant usecase.
 
 ## FOSS (Free and Open Source Software)
-    1. [signoz](https://github.com/signoz/signoz):  Observability platform with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc
+    1.[signoz](https://github.com/signoz/signoz)
+    Observability platform with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc
+
+## Engineering Leadership
+    1. [Awesome CTO](https://github.com/kuchin/awesome-cto) A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
+    
