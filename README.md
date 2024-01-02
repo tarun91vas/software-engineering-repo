@@ -5,12 +5,19 @@ This repository contains resources and reference for awesome stuff related to Co
 ## Index
 
 1. [Computer Science](#computer-science)
+
+    1. [Research Papers](#research-papers)
+
+        1. [VLL: a lock manager redesign for main memory database systems](https://www.cs.umd.edu/~abadi/papers/vldbj-vll.pdf)
+
+        2. [Dash: Scalable Hashing on Persistent Memory](https://arxiv.org/pdf/2003.07302.pdf)
 2. [Software Engineering](#software-engineering)
 3. [Mathematics](#mathematics)
 4. [AI](#ai)
 5. [Machine Learning](#machine-learning)
 6. [e-books](#e-books)
 7. [Engineering Leardership](#engineering-leadership)
+8. [Startups](#startups)
 
 
 
@@ -27,13 +34,19 @@ This repository contains resources and reference for awesome stuff related to Co
 ## e-books
 
 ## Databases
-    1.[Nile](https://www.thenile.dev/)
+    1. [Dragonfly](https://github.com/dragonflydb/dragonfly) A modern replacement for Redis and Memcached
+
+    2.[Nile](https://www.thenile.dev/)
     Serverless postgres for SaaS. Built in tenant virtulization. handles Multi tenant usecase.
 
 ## FOSS (Free and Open Source Software)
-    1.[signoz](https://github.com/signoz/signoz)
-    Observability platform with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc
+
+    1. [signoz](https://github.com/signoz/signoz) Observability platform with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc
 
 ## Engineering Leadership
+
     1. [Awesome CTO](https://github.com/kuchin/awesome-cto) A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
-    
+
+## Startups (Learning Resources)
+
+    1. [Y Combinator](https://www.youtube.com/@ycombinator) Videos to help you build successful startup
