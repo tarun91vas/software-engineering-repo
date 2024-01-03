@@ -12,6 +12,10 @@ This repository contains resources and reference for awesome stuff related to Co
 
         2. [Dash: Scalable Hashing on Persistent Memory](https://arxiv.org/pdf/2003.07302.pdf)
 2. [Software Engineering](#software-engineering)
+
+    1. [System Design](#systm-design)
+        1. [Refactoring Guru](https://refactoring.guru)
+
 3. [Mathematics](#mathematics)
 4. [AI](#ai)
 5. [Machine Learning](#machine-learning)
