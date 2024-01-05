@@ -32,11 +32,12 @@ This repository contains resources and reference for awesome stuff related to Co
 ## Machine Learning
 
 ## e-books
+1. [Software Engineering at Google](https://abseil.io/resources/swe-book/html/toc.html)
 
 ## Databases
 1.  [Dragonfly](https://github.com/dragonflydb/dragonfly) A modern replacement for Redis and Memcached
 2.  [Nile](https://www.thenile.dev/)
-    Serverless postgres for SaaS. Built in tenant virtulization. handles Multi tenant usecase.
+    Serverless postgres for SaaS. Built in tenant virtulization. Handles Multi tenant usecase.
 
 ## FOSS (Free and Open Source Software)
 1. [Signoz](https://github.com/signoz/signoz) Observability platform with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc
