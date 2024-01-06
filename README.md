@@ -22,8 +22,14 @@ This repository contains resources and reference for awesome stuff related to Co
 
 
 ## Computer Science
+### Research Papers
+1. [VLL: a lock manager redesign for main memory database systems](https://www.cs.umd.edu/~abadi/papers/vldbj-vll.pdf)
+2. [Dash: Scalable Hashing on Persistent Memory](https://arxiv.org/pdf/2003.07302.pdf)
 
-## Software Engineering 
+## Software Engineering
+### System Design
+1. [Refactoring Guru](https://refactoring.guru) makes it easy for you to discover everything you need to know about refactoring, design patterns, SOLID principles, and other smart programming topics.
+2. [System Design 101](https://github.com/ByteByteGoHq/system-design-101) Explain complex systems using visuals and simple terms.Help you prepare for system design interviews.
 
 ## Mathematics
 1. [Mathematics for Computer Science](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf)
@@ -51,10 +57,3 @@ This repository contains resources and reference for awesome stuff related to Co
 ## Startups (Learning Resources)
 1. [Y Combinator](https://www.youtube.com/@ycombinator) Videos to help you build successful startup
 2. [How to Start a Startup](https://www.youtube.com/playlist?list=PL5q_lef6zVkaTY_cT1k7qFNF2TidHCe-1) A 20 lecture youtube series
-
-## System Design
-1. [Refactoring Guru](https://refactoring.guru) makes it easy for you to discover everything you need to know about refactoring, design patterns, SOLID principles, and other smart programming topics.
-
-## Research Papers
-1. [VLL: a lock manager redesign for main memory database systems](https://www.cs.umd.edu/~abadi/papers/vldbj-vll.pdf)
-2. [Dash: Scalable Hashing on Persistent Memory](https://arxiv.org/pdf/2003.07302.pdf)
