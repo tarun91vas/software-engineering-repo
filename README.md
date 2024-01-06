@@ -26,6 +26,9 @@ This repository contains resources and reference for awesome stuff related to Co
 ## Software Engineering 
 
 ## Mathematics
+1. [Mathematics for Computer Science](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf)
+2. [Everything You always wanted to know about Mathematics](https://www.math.cmu.edu/~jmackey/151_128/bws_book.pdf)
+
 
 ## AI
 
@@ -47,6 +50,7 @@ This repository contains resources and reference for awesome stuff related to Co
 
 ## Startups (Learning Resources)
 1. [Y Combinator](https://www.youtube.com/@ycombinator) Videos to help you build successful startup
+2. [How to Start a Startup](https://www.youtube.com/playlist?list=PL5q_lef6zVkaTY_cT1k7qFNF2TidHCe-1) A 20 lecture youtube series
 
 ## System Design
 1. [Refactoring Guru](https://refactoring.guru) makes it easy for you to discover everything you need to know about refactoring, design patterns, SOLID principles, and other smart programming topics.
