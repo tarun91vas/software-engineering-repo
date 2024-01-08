@@ -4,20 +4,25 @@ This repository contains resources and reference for awesome stuff related to Co
 
 ## Index
 
-1. [Computer Science](#computer-science)
+- [Computer Science](#computer-science) 
+    
+    - [Data Structures](#data-structures)
+    - [Algorithms](#algorithms)
 
-    1. [Research Papers](#research-papers)
+- [Software Engineering](#software-engineering)
 
-2. [Software Engineering](#software-engineering)
+    - [System Design](#system-design)
+    - [Research Papers](#research-papers)
 
-    1. [System Design](#system-design)
+- [Mathematics](#mathematics)
+- [AI and Machine Learning](#ai-and-machine-learning)
 
-3. [Mathematics](#mathematics)
-4. [AI](#ai)
-5. [Machine Learning](#machine-learning)
-6. [e-books](#e-books)
-7. [Engineering Leardership](#engineering-leadership)
-8. [Startups](#startups)
+    - [LLMs (Large Language Models)](#large-language-models)
+    - [Cool Projects!](#cool-projects)
+
+- [e-books](#e-books)
+- [Engineering Leardership](#engineering-leadership)
+- [Startups](#startups)
 
 
 
@@ -36,9 +41,15 @@ This repository contains resources and reference for awesome stuff related to Co
 2. [Everything You always wanted to know about Mathematics](https://www.math.cmu.edu/~jmackey/151_128/bws_book.pdf)
 
 
-## AI
+## AI and Machine Learning
+### Large Language Models
+1. [Prompt Engineering Guide](https://learnprompting.org/docs/intro)
+2. [Evals Framework](https://github.com/openai/evals)
 
-## Machine Learning
+
+### Cool Projects
+1. [gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) Specify what you want it to build, the AI asks for clarification, and then builds it.
+
 
 ## e-books
 1. [Software Engineering at Google](https://abseil.io/resources/swe-book/html/toc.html)
