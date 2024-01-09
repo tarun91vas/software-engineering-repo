@@ -44,7 +44,8 @@ This repository contains resources and reference for awesome stuff related to Co
 ## AI and Machine Learning
 ### Large Language Models
 1. [Prompt Engineering Guide](https://learnprompting.org/docs/intro)
-2. [Evals Framework](https://github.com/openai/evals)
+2. [Prompting tips from winning a competition](https://towardsdatascience.com/how-i-won-singapores-gpt-4-prompt-engineering-competition-34c195a93d41)
+3. [Evals Framework](https://github.com/openai/evals)
 
 
 ### Cool Projects
