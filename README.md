@@ -18,6 +18,7 @@ This repository contains resources and reference for awesome stuff related to Co
 - [AI and Machine Learning](#ai-and-machine-learning)
 
     - [LLMs (Large Language Models)](#large-language-models)
+    - [Deep Learning](#deep-learning)
     - [Cool Projects!](#cool-projects)
 
 - [e-books](#e-books)
@@ -27,14 +28,15 @@ This repository contains resources and reference for awesome stuff related to Co
 
 
 ## Computer Science
-### Research Papers
-1. [VLL: a lock manager redesign for main memory database systems](https://www.cs.umd.edu/~abadi/papers/vldbj-vll.pdf)
-2. [Dash: Scalable Hashing on Persistent Memory](https://arxiv.org/pdf/2003.07302.pdf)
 
 ## Software Engineering
 ### System Design
 1. [Refactoring Guru](https://refactoring.guru) makes it easy for you to discover everything you need to know about refactoring, design patterns, SOLID principles, and other smart programming topics.
 2. [System Design 101](https://github.com/ByteByteGoHq/system-design-101) Explain complex systems using visuals and simple terms.Help you prepare for system design interviews.
+
+### Research Papers
+1. [VLL: a lock manager redesign for main memory database systems](https://www.cs.umd.edu/~abadi/papers/vldbj-vll.pdf)
+2. [Dash: Scalable Hashing on Persistent Memory](https://arxiv.org/pdf/2003.07302.pdf)
 
 ## Mathematics
 1. [Mathematics for Computer Science](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf)
@@ -46,6 +48,9 @@ This repository contains resources and reference for awesome stuff related to Co
 1. [Prompt Engineering Guide](https://learnprompting.org/docs/intro)
 2. [Prompting tips from winning a competition](https://towardsdatascience.com/how-i-won-singapores-gpt-4-prompt-engineering-competition-34c195a93d41)
 3. [Evals Framework](https://github.com/openai/evals)
+
+### Deep Learning
+1. [Dive into Deep Learning](https://www.d2l.ai/chapter_preface/index.html)
 
 
 ### Cool Projects
