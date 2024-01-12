@@ -1,6 +1,6 @@
 # Software Engineering Repository
 
-This repository contains resources and reference for awesome stuff related to Computer Science, Software Engineering, Mathematics, AI, Machine Learning and a lot more.
+This repository contains resources and reference for the awesome stuff related to Computer Science, Software Engineering, Mathematics, AI, Machine Learning and a lot more.
 
 ## Index
 
@@ -20,6 +20,7 @@ This repository contains resources and reference for awesome stuff related to Co
     - [LLMs (Large Language Models)](#large-language-models)
     - [Deep Learning](#deep-learning)
     - [Cool Projects!](#cool-projects)
+    - [Community](#community)
 
 - [e-books](#e-books)
 - [Engineering Leardership](#engineering-leadership)
@@ -55,6 +56,9 @@ This repository contains resources and reference for awesome stuff related to Co
 
 ### Cool Projects
 1. [gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) Specify what you want it to build, the AI asks for clarification, and then builds it.
+
+### Community
+1. [Hugging Face](https://huggingface.co) The AI community building the future
 
 
 ## e-books
