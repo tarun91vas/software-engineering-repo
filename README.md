@@ -59,6 +59,7 @@ This repository contains resources and reference for the awesome stuff related t
 
 ### Community
 1. [Hugging Face](https://huggingface.co) The AI community building the future
+2. [Midjourney](https://docs.midjourney.com/docs/quick-start) Use the Midjourney bot to generate stunning images from simple text prompts in seconds.
 
 
 ## e-books
