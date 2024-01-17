@@ -56,6 +56,7 @@ This repository contains resources and reference for the awesome stuff related t
 
 ### Cool Projects
 1. [gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) Specify what you want it to build, the AI asks for clarification, and then builds it.
+2. [Gradio](https://www.gradio.app) Build quick demos for ML apps
 
 ### Community
 1. [Hugging Face](https://huggingface.co) The AI community building the future
