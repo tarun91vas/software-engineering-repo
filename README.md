@@ -31,7 +31,8 @@ This repository contains resources and reference for the awesome stuff related t
 ## Computer Science
 
 ## Software Engineering
-### System Design
+
+### System Design <a name="system-design" id="system-design"></a>
 1. [Refactoring Guru](https://refactoring.guru) makes it easy for you to discover everything you need to know about refactoring, design patterns, SOLID principles, and other smart programming topics.
 2. [System Design 101](https://github.com/ByteByteGoHq/system-design-101) Explain complex systems using visuals and simple terms.Help you prepare for system design interviews.
 
