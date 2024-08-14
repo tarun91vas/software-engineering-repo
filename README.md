@@ -21,6 +21,7 @@ This repository contains resources and reference for the awesome stuff related t
     - [Deep Learning](#deep-learning)
     - [Cool Projects!](#cool-projects)
     - [Community](#community)
+    - [Courses](#ai-courses)
 
 - [e-books](#e-books)
 - [Engineering Leardership](#engineering-leadership)
@@ -34,7 +35,9 @@ This repository contains resources and reference for the awesome stuff related t
 
 ### System Design <a name="system-design"></a>
 1. [Refactoring Guru](https://refactoring.guru) makes it easy for you to discover everything you need to know about refactoring, design patterns, SOLID principles, and other smart programming topics.
-2. [System Design 101](https://github.com/ByteByteGoHq/system-design-101) Explain complex systems using visuals and simple terms.Help you prepare for system design interviews.
+2. [System Design 101](https://github.com/ByteByteGoHq/system-design-101) Explain complex systems using visuals and simple terms.Help you prepare for system design interviews. More like a refresher.
+3. Design Patterns in Detail [TBD]
+4. Data structure for databases
 
 ### Research Papers
 1. [VLL: a lock manager redesign for main memory database systems](https://www.cs.umd.edu/~abadi/papers/vldbj-vll.pdf)
@@ -62,6 +65,10 @@ This repository contains resources and reference for the awesome stuff related t
 ### Community
 1. [Hugging Face](https://huggingface.co) The AI community building the future
 2. [Midjourney](https://docs.midjourney.com/docs/quick-start) Use the Midjourney bot to generate stunning images from simple text prompts in seconds.
+
+### Courses <a name="ai-courses"></a>
+1. [Introduction to GenAI](https://www.cloudskillsboost.google/paths/118) Learning path by Google.
+2. [DeepLearning.AI](https://www.deeplearning.ai/short-courses/) GenAI short courses
 
 
 ## e-books
